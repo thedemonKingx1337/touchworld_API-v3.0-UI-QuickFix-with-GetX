@@ -1,16 +1,5 @@
-# flutter_application_001
+# Touchworld_API v3.0.0 Quick UI fix + getX implemented 
 
-A new Flutter project.
+API link : http://testapp.touchworldtechnology.com:3009/v1/product/getAllProduct
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src=https://github.com/thedemonKingx1337/touchworld_API-v3.0-UI-QuickFix-with-GetX/assets/43701328/257400eb-09a7-4697-8c17-64a3d7f2e8fe width="270" height="510"/>
