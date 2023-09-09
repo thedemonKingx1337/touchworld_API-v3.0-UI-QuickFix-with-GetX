@@ -1,4 +1,4 @@
-# Touchworld_API v3.0.0 Quick UI fix + getX implemented 
+# Touchworld_API v3.0.0 Quick UI fix + getX implemented + Counter Working
 
 API link : http://testapp.touchworldtechnology.com:3009/v1/product/getAllProduct
 
